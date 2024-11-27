@@ -2,4 +2,6 @@ venv
 db.sqlite3
 .env
 media
-"__pycache__/"
+cars/__pycache__/
+app/__pycache__/
+accounts/__pycache__/
